@@ -11,6 +11,12 @@
   <br>
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryon-droid&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
+
+</div>
+
 ### 🐍 我的提交画布
 
 <!-- 动态贪吃蛇核心展示区 -->
@@ -19,13 +25,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryon-droid/Ryon-droid/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Ryon-droid/Ryon-droid/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryon-droid&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
-
-</div>
 
 ---
