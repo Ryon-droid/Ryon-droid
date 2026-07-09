@@ -1,14 +1,9 @@
 name: generate animation
 
 on:
-  # 每24小时自动运行一次
   schedule:
     - cron: "0 */24 * * *" 
-  
-  # 允许手动触发运行
   workflow_dispatch:
-  
-  # 每次你往 main 分支推代码时也会触发
   push:
     branches:
     - main
@@ -21,16 +16,16 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # 生成贪吃蛇动画
+      # 生成贪吃蛇动画（通过颜色参数把信子/嘴巴隐形）
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%2341B883
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2332cd32
           
-      # 将生成的图片推送到一个名叫 output 的隔离分支
+      # 将生成的图片推送到 output 分支
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
