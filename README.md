@@ -19,7 +19,3 @@
 </picture>
 
 ---
-
-<p align="right">
-  <img src="https://api.visitorbadge.io/api/visitors?page=Ryon-droid.Ryon-droid&label=足迹&theme=clouds" alt="Visitors" />
-</p>
