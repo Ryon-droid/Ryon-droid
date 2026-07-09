@@ -22,6 +22,10 @@
 
 ---
 
+<div align="center">
+
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryon-droid&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
+
+</div>
 
 ---
