@@ -1,10 +1,14 @@
 # 👋 恭喜你发现了宝藏
 
 <p align="center">
-  <!-- 纯文字艺术字：使用赛博朋克渐变色，不含任何多余边框 -->
-  <h1 align="center" style="font-size: 2.8em; font-family: 'Microsoft YaHei', sans-serif; font-weight: 800; background: linear-gradient(45deg, #00f2fe, #4facfe, #9b51e0); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 20px rgba(79, 172, 254, 0.3);">
-    万物都是自由诗
-  </h1>
+  <br />
+  <h3 align="center" style="font-size: 1.6em; font-weight: 600; color: #ffffff;">
+    「 万物都是自由诗 」
+  </h3>
+  <p align="center" style="font-size: 1.1em; color: #8b949e; font-style: italic;">
+    偶尔写代码，偶尔写生活，偶尔和 bug 握手言和。
+  </p>
+  <br />
 </p>
 
 ---
