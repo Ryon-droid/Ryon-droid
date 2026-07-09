@@ -2,10 +2,10 @@
 
 <p align="center">
   <br />
-  <h3 align="center" style="font-size: 1.6em; font-weight: 600; color: #ffffff;">
+  <h3 align="center" style="font-size: 2.6em; font-weight: 800; color: #ffffff; letter-spacing: 2px;">
     「 万物都是自由诗 」
   </h3>
-  <p align="center" style="font-size: 1.1em; color: #8b949e; font-style: italic;">
+  <p align="center" style="font-size: 1.3em; color: #8b949e; font-style: italic; letter-spacing: 1px;">
     偶尔写代码，偶尔写生活，偶尔和 bug 握手言和。
   </p>
   <br />
