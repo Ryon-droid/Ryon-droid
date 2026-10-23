@@ -9,13 +9,7 @@
     偶尔写代码，偶尔写生活，偶尔和 bug 握手言和。
   </p>
   <br>
-</div>
 
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ryon-droid&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=radical" />
-
-</div>
 
 ---
 
